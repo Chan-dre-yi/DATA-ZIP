@@ -1,4 +1,4 @@
-# Encryption-and-decryption-using-Huffman-Coding
+# DataZip: Encryption-and-decryption-using-Huffman-Coding
 
 In this DSA/DAA project, we are composing a simple algorithm of data compression
 to store or transfer text files using less memory space. The algorithm works by first
